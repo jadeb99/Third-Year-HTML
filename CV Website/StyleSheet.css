@@ -1,0 +1,58 @@
+body {
+	background-color: #fff0f5;
+	width: 750px;
+	margin: auto;
+}
+
+h1 {
+	font-family: verdana;
+	color: #f473e2;
+	text-align: center;
+}
+
+h2 {
+	font-family: verdana;
+	font-size: 20px;
+	color: #f473e2;
+}
+
+H3 {
+	color: #ee84df;
+	font-family: verdana;
+	font-size: 17px;
+}
+
+p {
+	font-family: verdana;
+	font-size: 15px;
+	text-align: justify;
+}
+
+a {
+	text-decoration: none;
+}
+
+dt {
+	font-family: verdana;
+	font-size: 15px;
+	text-align: justify;
+}
+
+dd {
+	font-family: verdana;
+	font-size: 15px;
+	text-align: justify;
+}
+
+td {
+	font-family: verdana;
+	font-size: 15px;
+	text-align: justify;
+}
+
+div {
+  width: full;
+  border: 15px;
+  padding: 50px;
+  margin: 10px;
+}
